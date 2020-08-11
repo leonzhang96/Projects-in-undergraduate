@@ -1,6 +1,3 @@
-//Name: Zhang Hang
-//ID# 111359459
-//Section: CSE214-03
 
 package extraH1;
 
